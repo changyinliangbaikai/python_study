@@ -1,0 +1,18 @@
+2017-03-20 14:42:52,401 - logging_study.py[line:105] - INFO: this is a logger debug message
+2017-03-20 14:43:27,269 - logging_study.py[line:105] - INFO: this is a logger debug message
+2017-03-20 14:43:32,839 - logging_study.py[line:105] - INFO: this is a logger debug message
+2017-03-20 14:44:34,595 - logging_study.py[line:105] - INFO: this is a logger debug message
+2017-03-20 14:46:13,384 - logging_study.py[line:113] - WARNING: this is a logger warning message
+2017-03-20 14:46:13,384 - logging_study.py[line:117] - ERROR: this is a logger error message
+2017-03-20 14:47:55,875 - logging_study.py[line:113] - WARNING: this is a logger warning message
+2017-03-20 14:47:55,875 - logging_study.py[line:117] - ERROR: this is a logger error message
+2017-03-20 14:48:13,496 - logging_study.py[line:111] - WARNING: this is a logger warning message
+2017-03-20 14:48:13,496 - logging_study.py[line:115] - ERROR: this is a logger error message
+2017-03-20 14:53:45,803 - logging_study.py[line:115] - ERROR: test
+2017-03-20 14:56:27,107 - 11060 logging_study.py : error[line:94] - ERROR: test
+2017-03-20 14:58:10,535 - 10692 logging_study.py : <module>[line:119] - ERROR: test
+2017-03-20 14:58:10,535 - 10692 logging_study.py : <module>[line:119] - ERROR: test
+2017-03-20 14:58:33,694 - 9024 logging_study.py : <module>[line:119] - ERROR: test
+2017-03-20 14:58:33,694 - 9024 logging_study.py[line:119] - ERROR: test
+2017-03-20 14:59:17,332 - 5124 logging_study.py : <module>[line:121] - ERROR: test
+2017-03-20 14:59:17,332 - 5124 logging_study.py : <module>[line:121] - ERROR: test
